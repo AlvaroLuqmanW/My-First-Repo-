@@ -4,4 +4,4 @@ NPM     : 2106750616
 
 Kelas   : E
 
-Hobi    : Makan
+Hobi    : Makan2
